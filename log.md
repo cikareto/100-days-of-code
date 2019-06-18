@@ -20,3 +20,11 @@
 **Thoughts:** 
 - Flutter look so fun. I should try something like this next time.
 - I need to improve my logic a lot. Still get stucked on [this problem](https://leetcode.com/problems/add-two-numbers/submissions/) 
+
+### Day 2: June 18, Tuesday, 2019
+
+**Today's Progress:** 
+- Read the artical about [MicroFrontend](https://micro-frontends.org/)
+- Solved coding problems on [LeetCode](https://leetcode.com/problemset/all/) 
+
+**Thoughts:** I have to find some artical or interesting technology to present on the team workshop this friday. I think I will go with Microfrontend, so I try to understand thier definition and tmr I will go through with the code!
