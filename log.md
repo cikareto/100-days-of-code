@@ -27,4 +27,11 @@
 - Read the artical about [MicroFrontend](https://micro-frontends.org/)
 - Solved coding problems on [LeetCode](https://leetcode.com/problemset/all/) 
 
-**Thoughts:** I have to find some artical or interesting technology to present on the team workshop this friday. I think I will go with Microfrontend, so I try to understand thier definition and tmr I will go through with the code!
+**Thoughts:** I have to find some artical or interesting technology to present on the team workshop this friday. I think I will go with Microfrontend, so I try to understand thier definition and tmr I will go through the code!
+
+### Day 3: June 19, Wednesday, 2019
+
+**Today's Progress:** 
+- Continue Read the artical about [MicroFrontend](https://micro-frontends.org/), involved coding part.
+
+**Thoughts:** Got confused when talking about backend part. Not fully understand how each component comunicate together. Maybe on this weekend I should try more on backend first. 
