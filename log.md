@@ -35,3 +35,10 @@
 - Continue Read the artical about [MicroFrontend](https://micro-frontends.org/), involved coding part.
 
 **Thoughts:** Got confused when talking about backend part. Not fully understand how each component comunicate together. Maybe on this weekend I should try more on backend first. 
+
+### Day 4: June 20, Thusday, 2019
+
+**Today's Progress:** 
+- Conclude [MicroFrontend](https://micro-frontends.org/) to prepare for my workshop presentation.
+
+**Thoughts:** Got more understanding when summarize things.
