@@ -42,3 +42,10 @@
 - Conclude [MicroFrontend](https://micro-frontends.org/) to prepare for my workshop presentation.
 
 **Thoughts:** Got more understanding when summarize things.
+
+### Day 5: June 21, Thusday, 2019
+
+**Today's Progress:** 
+- Install Jenkins on linux and make jenkins can clone the remote git reposity.
+
+**Thoughts:** Not thing much for today indeed.
