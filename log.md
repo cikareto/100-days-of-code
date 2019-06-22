@@ -43,9 +43,18 @@
 
 **Thoughts:** Got more understanding when summarize things.
 
-### Day 5: June 21, Thusday, 2019
+### Day 5: June 21, Friday, 2019
 
 **Today's Progress:** 
 - Install Jenkins on linux and make jenkins can clone the remote git reposity.
 
 **Thoughts:** Not thing much for today indeed.
+
+### Day 6: June 22, Saturday, 2019
+
+**Today's Progress:** Cleanup very old project and setup firebase to it.
+
+**Thoughts:** I left this project so long. Almost forgot all the things. Need to design it again.
+
+**Link(s) to work:** 
+1. [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
