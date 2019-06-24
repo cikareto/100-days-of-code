@@ -58,3 +58,12 @@
 
 **Link(s) to work:** 
 1. [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
+
+### Day 7: June 24, Monday, 2019
+
+**Today's Progress:** Redesigned UI and prepared base components
+
+**Thoughts:** Need to connect with medium and github api. Have to take some time on that. 
+
+**Link(s) to work:** 
+1. [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
