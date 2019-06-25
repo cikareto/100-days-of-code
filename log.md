@@ -56,8 +56,7 @@
 
 **Thoughts:** I left this project so long. Almost forgot all the things. Need to design it again.
 
-**Link(s) to work:** 
-1. [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
+**Link(s) to work:** [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
 
 ### Day 7: June 24, Monday, 2019
 
@@ -65,5 +64,10 @@
 
 **Thoughts:** Need to connect with medium and github api. Have to take some time on that. 
 
-**Link(s) to work:** 
-1. [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
+**Link(s) to work:** [cikareto.github.io](https://github.com/cikareto/cikareto.github.io)
+
+### Day 8: June 25, Tuesday, 2019
+
+**Today's Progress:** Connected [cikareto.github.io](https://github.com/cikareto/cikareto.github.io) with Github API to get all my repositories. But I got the error when try to render about your Object is invalid.
+
+**Thoughts:** I think I know its cause, will figure out tmr. It's should be something about state, isn't it?
