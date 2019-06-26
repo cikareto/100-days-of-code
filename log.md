@@ -71,3 +71,10 @@
 **Today's Progress:** Connected [cikareto.github.io](https://github.com/cikareto/cikareto.github.io) with Github API to get all my repositories. But I got the error when try to render about your Object is invalid.
 
 **Thoughts:** I think I know its cause, will figure out tmr. It's should be something about state, isn't it?
+
+### Day 9: June 26, Wednesday, 2019
+
+**Today's Progress:** Fixed yesterday problem about fetching data by using redux thunk to handle this. Tmr will continue with UI.
+
+**Thoughts:** Don't fully understand what redux-thunk is. Will go into details tmr.
+
