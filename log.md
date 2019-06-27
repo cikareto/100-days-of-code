@@ -36,7 +36,7 @@
 
 **Thoughts:** Got confused when talking about backend part. Not fully understand how each component comunicate together. Maybe on this weekend I should try more on backend first. 
 
-### Day 4: June 20, Thusday, 2019
+### Day 4: June 20, Thursday, 2019
 
 **Today's Progress:** 
 - Conclude [MicroFrontend](https://micro-frontends.org/) to prepare for my workshop presentation.
@@ -77,4 +77,10 @@
 **Today's Progress:** Fixed yesterday problem about fetching data by using redux thunk to handle this. Tmr will continue with UI.
 
 **Thoughts:** Don't fully understand what redux-thunk is. Will go into details tmr.
+
+### Day 10: June 27, Thursday, 2019
+
+**Today's Progress:** Created UI to render list of github repos. Also go though what [redux-thunk](https://github.com/reduxjs/redux-thunk) is.
+
+**Thoughts:** Tmr will find the way to handle read more.
 
